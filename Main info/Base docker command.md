@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B+%D0%B4%D0%BE%D0%BA%D0%B5%D1%80%D0%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000&center=true&vCenter=true&width=435&lines=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B+%D0%B4%D0%BE%D0%BA%D0%B5%D1%80%D0%B0;%3A0)](https://git.io/typing-svg)
 # docker run *
 
 ### Создает контейнер на основе готового образа (image)
