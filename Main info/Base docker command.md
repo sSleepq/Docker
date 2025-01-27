@@ -5,4 +5,4 @@
 <p>i.	Например docker run hello</p>
 <p>b.	Так же можно прописать использование команд работающими с выбранным образом</p>
 <p>i.	Например docker run ubuntu apt update</p>
-<img href="image.png"></img>
+<img src="image.png"></img>
