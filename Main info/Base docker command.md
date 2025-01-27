@@ -9,11 +9,11 @@ docker run hello-world
 ```bash
 docker run ubuntu apt update
 ```
-<center><img src="image/1.png" style="width:500px; heigth:300px"></img></center>
+<center><img src="image/1.png" style="width:500px; heigth:350px"></img></center>
 
 
 ### Параметр `-d` позволяет запустить контейнер в фоновом режиме
-<center><img src="image/2.png" style="width:500px; heigth:300px"></img></center>
+<center><img src="image/2.png" style="width:500px; heigth:350px"></img></center>
 
 # docker ps
 
@@ -21,13 +21,13 @@ docker run ubuntu apt update
 ```bash
 docker ps
 ```
-<center><img src="image/3.png" style="width:500px; heigth:300px"></img></center>
+<center><img src="image/3.png" style="width:500px; heigth:350px"></img></center>
 
 ### Параметр `-a` позволяет посмотреть список всех контейнеров
 ```bash
 docker ps -a
 ```
-<center><img src="image/4.png" style="width:500px; heigth:300px"></img></center>
+<center><img src="image/4.png" style="width:500px; heigth:350px"></img></center>
 
 # docker rm *
 
