@@ -17,6 +17,7 @@ Docker labs and lesson
 
 # LAB and Practical
 <a href="Main info/lab_pr/pr1.md">Practical work 1</a>
-
+<a href="Main info/lab_pr/Лаб2/L2.md">Practical work 2</a>
+<a href="Main info/lab_pr/Лаб3/README.MD">Practical work 3</a>
 # LECTURES
 <a href="Main info/lectures/Docker-compose.md">Docker compose</a>
