@@ -16,8 +16,11 @@ Docker labs and lesson
 <a href="https://github.com/sSleepq/Docker/blob/051fdcd7e64953febff0d11deebd065877b1e1b3/Main%20info/Base%20docker%20command.md" >*клик*</a>
 
 # LAB and Practical
-<a href="Main info/lab_pr/pr1.md">Practical work 1</a>
+<a href="Main info/lab_pr/pr1.md">Practical work 1</a> 
+
 <a href="Main info/lab_pr/Лаб2/L2.md">Practical work 2</a>
+
 <a href="Main info/lab_pr/Лаб3/README.MD">Practical work 3</a>
+
 # LECTURES
 <a href="Main info/lectures/Docker-compose.md">Docker compose</a>
